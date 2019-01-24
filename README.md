@@ -16,6 +16,6 @@ The K-nearest neighbors algorithm is fast to train the data but is slow to compu
 
 Accuracy results:
 
-Linear Support Vector Classifier(SVC): 88.9%
-Random forest: 95.9%
-k Nearest Neighbors(k=5): 96.2%
+Linear Support Vector Classifier(SVC): 88.9%              
+Random forest: 95.9%                                    
+k Nearest Neighbors(k=5): 96.2%                                    
