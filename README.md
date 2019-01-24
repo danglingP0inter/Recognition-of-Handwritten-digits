@@ -1,4 +1,4 @@
-# Recognition-of-Handwritten-digits-using-Neural-nets
+# Recognition-of-Handwritten-digits
 
 An excellent tutorial to understand how the neural network works in general can be found here
 https://www.youtube.com/watch?v=aircAruvnKk&t=103s
